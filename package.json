@@ -1,0 +1,23 @@
+{
+  "name": "koajs",
+  "version": "1.0.0",
+  "description": "A rest API web server developed using koa js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthik-node/koa-restAPI.git"
+  },
+  "keywords": [
+    "koa",
+    "js"
+  ],
+  "author": "k@rth!k",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karthik-node/koa-restAPI/issues"
+  },
+  "homepage": "https://github.com/karthik-node/koa-restAPI#readme"
+}
